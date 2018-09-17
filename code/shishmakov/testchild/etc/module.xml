@@ -1,0 +1,7 @@
+<config>
+    <module  name = "Shishmakov_Testchild"  setup_version = "1.0.0">
+        <sequence>
+            <module name="Shishmakov_Test"/>
+        </sequence>
+    </module>
+</config>

@@ -1,0 +1,7 @@
+{
+  "name": "shishmakov/testchild",
+  "description": "N/A",
+  "require": {
+    "shishmakov/test": "1.0.0"
+  }
+}
